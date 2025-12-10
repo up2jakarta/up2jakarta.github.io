@@ -1,5 +1,7 @@
 Up2J - divers frameworks build upon Jakarta EE (JEE)
 
+[![Latest Release](https://maven-badges.sml.io/sonatype-central/io.github.up2jakarta/up2-divers/badge.svg?style=for-the-badge&subject=Latest%20Release)](https://maven-badges.sml.io/sonatype-central/io.github.up2jakarta/up2-divers/)
+
 ### [Up2LOV Core](https://github.com/up2jakarta/up2-divers/blob/master/up2lov-core/README.md)
 
 Modern API for CodeList or List Of Values (LOV) manipulation.
@@ -39,3 +41,16 @@ Modern API for batch processing of CSV files for standard mode or multi-segments
     <!-- Optional JSR-303 Provider -->
     <!-- Optional CDI/IoC Provider -->
 ```
+
+### [Up2CII Format](https://github.com/up2jakarta/up2-divers/blob/master/up2cii-format/README.md)
+
+Modern API for validating, reading and writing CII (Cross Industry Invoice) e-invoices.
+
+``` xml
+    <dependency>
+        <groupId>io.github.up2jakarta</groupId>
+        <artifactId>up2cii-format/artifactId>
+        <version>1.6.2</version>
+    </dependency>
+```
+
