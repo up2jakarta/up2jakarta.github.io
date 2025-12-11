@@ -49,7 +49,7 @@ Modern API for validating, reading and writing CII (Cross Industry Invoice) e-in
 ``` xml
     <dependency>
         <groupId>io.github.up2jakarta</groupId>
-        <artifactId>up2cii-format/artifactId>
+        <artifactId>up2cii-format</artifactId>
         <version>1.6.2</version>
     </dependency>
 ```
