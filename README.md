@@ -10,7 +10,7 @@ Modern API for CodeList or List Of Values (LOV) manipulation.
     <dependency>
         <groupId>io.github.up2jakarta</groupId>
         <artifactId>up2lov-core</artifactId>
-        <version>1.6.2</version>
+        <version>1.6.3</version>
     </dependency>
 ```
 
@@ -22,7 +22,7 @@ Modern API for mapping, validating and parsing flat-data to JavaBeans with fault
     <dependency>
         <groupId>io.github.up2jakarta</groupId>
         <artifactId>up2csv-core</artifactId>
-        <version>1.6.2</version>
+        <version>1.6.3</version>
     </dependency>
     <!-- Optional JSR-303 Provider -->
     <!-- Optional CDI/IoC Provider -->
@@ -36,7 +36,7 @@ Modern API for batch processing of CSV files for standard mode or multi-segments
     <dependency>
         <groupId>io.github.up2jakarta</groupId>
         <artifactId>up2csv-format</artifactId>
-        <version>1.6.2</version>
+        <version>1.6.3</version>
     </dependency>
     <!-- Optional JSR-303 Provider -->
     <!-- Optional CDI/IoC Provider -->
@@ -50,7 +50,7 @@ Modern API for validating, reading and writing CII (Cross Industry Invoice) e-in
     <dependency>
         <groupId>io.github.up2jakarta</groupId>
         <artifactId>up2cii-format</artifactId>
-        <version>1.6.2</version>
+        <version>1.6.3</version>
     </dependency>
 ```
 
